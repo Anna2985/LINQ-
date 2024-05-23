@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34902.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ_Distinct", "LINQ學習\LINQ_Distinct.csproj", "{36DB3924-1CBF-4F28-B432-5CC020D49671}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ_SELECT", "LINQ_SELECT\LINQ_SELECT.csproj", "{847A0582-0375-4036-AFFF-C1B91EADF077}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36DB3924-1CBF-4F28-B432-5CC020D49671}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36DB3924-1CBF-4F28-B432-5CC020D49671}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36DB3924-1CBF-4F28-B432-5CC020D49671}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36DB3924-1CBF-4F28-B432-5CC020D49671}.Release|Any CPU.Build.0 = Release|Any CPU
+		{847A0582-0375-4036-AFFF-C1B91EADF077}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{847A0582-0375-4036-AFFF-C1B91EADF077}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{847A0582-0375-4036-AFFF-C1B91EADF077}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{847A0582-0375-4036-AFFF-C1B91EADF077}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A68D34D9-F5C7-45B1-A6DF-6E3153E256CD}
+	EndGlobalSection
+EndGlobal
